@@ -1,2 +1,2 @@
 # ceramic-db-api
-Isomorphic MongoDb-style API for Database Access 
+Isomorphic MongoDb-style API for Databases 

@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "ceramic-db-api",
+  "version": "0.3.6",
+  "description": "Isomorphic MongoDb-style API for Databases",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/ceramic-db-api.git"
+  },
+  "main": "lib/ceramic-db-api",
+  "dependencies": {
+      "ceramic": "*"
+  },
+  "devDependencies": {
+    "co": "*",
+    "istanbul-harmony": "0",
+    "mocha": "^2.0.0"
+  },
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "orm", "odm", "ceramic",
+    "object document mapper", "mongodb"
+  ],
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/jeswin/ceramic-db-api/issues"
+  },
+  "homepage": "https://github.com/jeswin/ceramic-db-api",
+  "maintainers": [
+    {
+      "name": "jeswin",
+      "email": "jeswinpk@agilehead.com"
+    }
+  ]
+}
