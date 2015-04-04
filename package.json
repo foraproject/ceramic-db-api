@@ -4,7 +4,7 @@
     "email": "jeswinpk@agilehead.com"
   },
   "name": "ceramic-db-api",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "description": "Isomorphic MongoDb-style API for Databases",
   "repository": {
     "type": "git",
