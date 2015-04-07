@@ -12,12 +12,13 @@
   },
   "main": "lib/ceramic-db-api",
   "dependencies": {
-      "ceramic": "*"
   },
   "devDependencies": {
-    "co": "*",
-    "istanbul-harmony": "0",
-    "mocha": "^2.0.0"
+      "co": "*",
+      "ceramic": "*",
+      "istanbul-harmony": "0",
+      "mocha": "^2.0.0",
+      "ceramic-backend-mongodb": "*"
   },
   "engines": {
     "node": ">= 0.11.9"
